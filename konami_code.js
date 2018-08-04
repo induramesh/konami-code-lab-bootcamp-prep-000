@@ -23,7 +23,6 @@ function init() {
       index=0;
     }
     } else {
-      console.log("false!")
      index=0;
 }
 });
