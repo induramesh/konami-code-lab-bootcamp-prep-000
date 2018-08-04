@@ -21,9 +21,9 @@ function init() {
     if (index===codes.length) {
       window.alert("GOOD JOB! YOU DID IT!");
       index=0;
-    }
+     }
     } else {
      index=0;
-}
-});
+    }
+  });
 }
